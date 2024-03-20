@@ -6,8 +6,7 @@ bin-release/
 
 # Other files and folders
 .settings/
-._pycache_/
-.__pycache__/
+__pycache__/
 
 
 # Executables

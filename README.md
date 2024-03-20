@@ -6,5 +6,4 @@
 [![pytest](https://img.shields.io/github/actions/workflow/status/iamconsortium/pyam/pytest.yml?logo=GitHub&label=pytest)](https://github.com/IAMconsortium/pyam/actions/workflows/pytest.yml)
 
 ## Background
-I hate this so far
-might be hope...
+This is a firt run experience of the vast universe of git. 
