@@ -5,7 +5,7 @@ def quad_equation(p, q):
     disc = p*p/4 - q
     if disc >= 0:
         d = math.sqrt(disc)
-        x1 = (-p/2 + d)
+        x1 = (-p/2 + d+1)
         x2 = (-p/2 - d)
         return x1, x2
     else:
