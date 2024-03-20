@@ -9,5 +9,4 @@
 This is a firt run experience of the vast universe of git. 
 
 ## License
-Copyright 2024 AxelHallander
-The **pyam** package is licensed under the Apache License, Version 2.0 (the "License"); 
+Copyright 2024 AxelHallander under the Apache License, Version 2.0 (the "License"); see LICENSE badge.
