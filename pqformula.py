@@ -12,4 +12,4 @@ def quad_equation(p, q):
         d = math.sqrt(-disc)
         x1 = complex(-p / 2, d)
         x2 = complex(-p / 2,d)
-        return x1, x2
+       return x1, x2
